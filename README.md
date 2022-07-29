@@ -2,31 +2,32 @@
    "files": [    
 
 {
-         "name": "DTAC-TRUEMOVE-SG-VIP-GAME-001",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-SG-001.ovpn"
+         "name": "DTAC-SG-001-FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-1.ovpn"
       },
 {
-         "name": "DTAC&TRUEMOVE-SG-VIP-GAME-002",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-SG-002.ovpn"
+         "name": "DTAC-SG-002-FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-2.ovpn"
       },
 {
-         "name": "DTAC&TRUEMOVE-SG-VIP-GAME-003",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-SG-003.ovpn"
+         "name": "DTAC-SG-003-FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-3.ovpn"
       },
 {
-         "name": "DTAC&TRUEMOVE-SG-VIP-GAME-004",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-SG-004.ovpn"
+         "name": "DTAC-SG-004-FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-4.ovpn"
       },
 {
-         "name": "DTAC&TRUEMOVE-SG-VIP-GAME-005",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-SG-005.ovpn"
+         "name": "TRUE-SG-001-FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-5.ovpn"
       },
 {
-         "name": "DTAC&TRUEMOVE-SG-VIP-GAME-006",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-SG-006.ovpn"
+         "name": "TRUE-SG-002-FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC%2BTRUE-1.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version: 1\n\n•Config By:FreeNet ",
+",
    "title":"Add Dtac&True auto update file" ,
    "version": 1
 }
